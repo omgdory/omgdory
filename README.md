@@ -1,4 +1,7 @@
-# <div align="center"> \~> Dorian Akhavan <\~ </div> 
+<span align="center">
+  <img src="header.png" alt="Header"/>
+</span>
+
 **Hey! Here's a bit about me:**
 <br />
 📜 Undergraduate Computer Science student at UNLV! <br />
