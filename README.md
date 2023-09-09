@@ -20,7 +20,6 @@
 <br />
 Also x86 and MIPS Assembly!
 
-### !! UNDER CONSTRUCTION OK !!
 <!--
 **omgdory/omgdory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
