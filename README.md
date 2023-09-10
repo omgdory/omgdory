@@ -18,7 +18,7 @@
 ## Current Skills
 [![My Skills](https://skillicons.dev/icons?i=unity,vscode,cpp,cs,python,linux,bash,html,css,ts)](https://skillicons.dev)
 <br />
-Also x86 and MIPS Assembly!
+Also x86 and MIPS (RISC) Assembly!
 
 <!--
 **omgdory/omgdory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
