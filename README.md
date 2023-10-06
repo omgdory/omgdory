@@ -5,8 +5,7 @@
 **Hey! Here's a bit about me:**
 <br />
 📜 Undergraduate Computer Science student at UNLV! <br />
-👌 Pronouns they/them are preferred <br />
-😺 Cats are goat'd <br />
+👌 Pronouns they/he <br />
 
 ---
 
