@@ -14,7 +14,7 @@
 👨🏽‍💻 Programming Languages, Concepts, and Implementation <br />
 🌎 Social Implications of Computer Technology <br />
 
-## Current Skills
+## Tools and Skills
 [![My Skills](https://skillicons.dev/icons?i=unity,vscode,cpp,cs,python,linux,bash,html,css,ts)](https://skillicons.dev)
 <br />
 Also x86 and MIPS (RISC) Assembly!
