@@ -10,7 +10,7 @@
 ---
 
 ## Currently Studying
-🖥️ Operating Systems <br />
+💾 Operating Systems <br />
 👨🏽‍💻 Programming Languages, Concepts, and Implementation <br />
 🌎 Social Implications of Computer Technology <br />
 
@@ -18,6 +18,12 @@
 [![My Skills](https://skillicons.dev/icons?i=unity,vscode,cpp,cs,python,linux,bash,html,css,ts)](https://skillicons.dev)
 <br />
 Also x86 and MIPS (RISC) Assembly!
+
+## Completed Courses
+🖥️ Computer Science I and II <br />
+⚙ Introduction to Systems Programming <br />
+🔍 Data Structures and Algorithms <br />
+💿 Computer Organization <br />
 
 <!--
 **omgdory/omgdory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
