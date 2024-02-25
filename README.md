@@ -10,8 +10,8 @@
 ---
 
 ## Currently Studying
-🧠 Introduction to Machine Learning
-🎯 Analysis of Algorithms
+🧠 Introduction to Machine Learning <br />
+🎯 Analysis of Algorithms <br />
 💡 Formal Language and Automata
 
 ## Tools and Skills
