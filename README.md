@@ -10,9 +10,7 @@
 ---
 
 ## Currently Studying
-🧠 Introduction to Machine Learning <br />
-🎯 Analysis of Algorithms <br />
-💡 Formal Language and Automata
+🧭 Compiler Construction
 
 ## Tools and Skills
 [![My Skills](https://skillicons.dev/icons?i=unity,vscode,cpp,cs,python,linux,bash,html,css,ts)](https://skillicons.dev)
@@ -27,6 +25,9 @@ Also x86 and MIPS (RISC) Assembly!
 💾 Operating Systems <br />
 👨🏽‍💻 Programming Languages, Concepts, and Implementation <br />
 🌎 Social Implications of Computer Technology <br />
+🧠 Introduction to Machine Learning <br />
+🎯 Analysis of Algorithms <br />
+💡 Formal Language and Automata
 
 <!--
 **omgdory/omgdory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
