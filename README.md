@@ -6,6 +6,7 @@
 <br />
 📜 Undergraduate Computer Science student at UNLV! <br />
 👌 Pronouns they/he <br />
+🐛 Check out my website [here!](https://www.dorianakhavan.dev)
 
 ---
 
