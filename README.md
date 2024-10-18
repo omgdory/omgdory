@@ -11,9 +11,9 @@
 ---
 
 ## Currently Studying
-🧭 Compiler Construction
-🛜 Computer Networks
-ℹ️ Database Management Systems
+🧭 Compiler Construction <br />
+🛜 Computer Networks <br />
+ℹ️ Database Management Systems <br />
 
 ## Tools and Skills
 [![My Skills](https://skillicons.dev/icons?i=unity,vscode,cpp,cs,python,linux,bash,html,css,ts)](https://skillicons.dev)
