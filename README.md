@@ -5,13 +5,15 @@
 **Hey! Here's a bit about me:**
 <br />
 📜 Undergraduate Computer Science student at UNLV! <br />
-👌 Pronouns they/he <br />
+👌 Pronouns they/them <br />
 🐛 Check out my website [here!](https://www.dorianakhavan.dev)
 
 ---
 
 ## Currently Studying
 🧭 Compiler Construction
+🛜 Computer Networks
+ℹ️ Database Management Systems
 
 ## Tools and Skills
 [![My Skills](https://skillicons.dev/icons?i=unity,vscode,cpp,cs,python,linux,bash,html,css,ts)](https://skillicons.dev)
