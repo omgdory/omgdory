@@ -11,9 +11,9 @@
 ---
 
 ## Currently Studying
-🧭 Compiler Construction <br />
-🛜 Computer Networks <br />
-ℹ️ Database Management Systems <br />
+🛠️ Software Product Design and Development <br />
+🐍 Analysis and Presentation (Machine Learning with Big Data) <br />
+💪 Assembler Construction (Independent Study) <br />
 
 ## Tools and Skills
 [![My Skills](https://skillicons.dev/icons?i=unity,vscode,cpp,cs,python,linux,bash,html,css,ts)](https://skillicons.dev)
@@ -30,7 +30,10 @@ Also x86 and MIPS (RISC) Assembly!
 🌎 Social Implications of Computer Technology <br />
 🧠 Introduction to Machine Learning <br />
 🎯 Analysis of Algorithms <br />
-💡 Formal Language and Automata
+💡 Formal Language and Automata <br />
+🧭 Compiler Construction <br />
+🛜 Computer Networks <br />
+ℹ️ Database Management Systems <br />
 
 <!--
 **omgdory/omgdory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
