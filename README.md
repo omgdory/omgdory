@@ -11,12 +11,12 @@
 ---
 
 ## Currently Studying
-🛠️ Software Product Design and Development <br />
-🐍 Analysis and Presentation (Machine Learning with Big Data) <br />
-💪 Assembler Construction (Independent Study) <br />
+🛠️ Software Product Design and Development ➡️ Project source available [here!](https://github.com/UNLV-CS472-672/2025-S-GROUP2-LessonConnect) <br />
+🐍 Analysis and Presentation (Computational Statistical Analysis) <br />
+💪 Independent Study (Transpiler Construction) ➡️ Project source available [here!](https://github.com/omgdory/CS490) <br />
 
 ## Tools and Skills
-[![My Skills](https://skillicons.dev/icons?i=unity,vscode,cpp,cs,python,linux,bash,html,css,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,cs,cpp,vscode,python,linux,windows,bash,powershell)](https://skillicons.dev)
 <br />
 Also x86 and MIPS (RISC) Assembly!
 
