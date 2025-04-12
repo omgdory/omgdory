@@ -1,5 +1,5 @@
 <span align="center">
-  <img src="header.png" alt="Header"/>
+  <img src="header2.png" alt="Header"/>
 </span>
 
 **Hey! Here's a bit about me:**
@@ -11,17 +11,20 @@
 ---
 
 ## Currently Studying
+
 🛠️ Software Product Design and Development ➡️ Project source available [here!](https://github.com/UNLV-CS472-672/2025-S-GROUP2-LessonConnect) <br />
 🐍 Analysis and Presentation (Computational Statistical Analysis) <br />
 💪 Independent Study (Transpiler Construction) ➡️ Project source available [here!](https://github.com/omgdory/CS490) <br />
 📊 Statistics for Scientists and Engineers II <br />
 
 ## Tools and Skills
+
 [![My Skills](https://skillicons.dev/icons?i=unity,cs,cpp,vscode,python,linux,windows,bash,powershell)](https://skillicons.dev)
 <br />
 Also x86 and MIPS (RISC) Assembly!
 
 ## Completed Courses
+
 🖥️ Computer Science I and II <br />
 ⚙ Introduction to Systems Programming <br />
 🔍 Data Structures and Algorithms <br />
