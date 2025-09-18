@@ -4,18 +4,13 @@
 
 **Hey! Here's a bit about me:**
 <br />
-📜 Undergraduate Computer Science student at UNLV! <br />
+🧑‍💻 Former Unity game demo intern at DraftKings! <br />
+📜 Graduated Computer Science student <br />
 👌 Pronouns they/them <br />
 🐛 Check out my website [here!](https://www.dorianakhavan.dev)
 
 ---
 
-## Currently Studying
-
-🛠️ Software Product Design and Development ➡️ Project source available [here!](https://github.com/UNLV-CS472-672/2025-S-GROUP2-LessonConnect) <br />
-🐍 Analysis and Presentation (Computational Statistical Analysis) <br />
-💪 Independent Study (Transpiler Construction) ➡️ Project source available [here!](https://github.com/omgdory/CS490) <br />
-📊 Statistics for Scientists and Engineers II <br />
 
 ## Tools and Skills
 
@@ -38,6 +33,10 @@ Also x86 and MIPS (RISC) Assembly!
 🧭 Compiler Construction <br />
 🛜 Computer Networks <br />
 ℹ️ Database Management Systems <br />
+🛠️ Software Product Design and Development ➡️ Project source available [here!](https://github.com/UNLV-CS472-672/2025-S-GROUP2-LessonConnect) <br />
+🐍 Analysis and Presentation (Computational Statistical Analysis) <br />
+💪 Independent Study (Transpiler Construction) ➡️ Project source available [here!](https://github.com/omgdory/CS490) <br />
+📊 Statistics for Scientists and Engineers II <br />
 
 <!--
 **omgdory/omgdory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
